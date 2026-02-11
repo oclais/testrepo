@@ -1,2 +1,2 @@
 # testrepo
-Depot Git de test
+*Depot Git de test*
